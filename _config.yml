@@ -9,7 +9,7 @@ name: Developer Relations Events
 author: Amit Merchant
 
 # Short bio or description (displayed in the header)
-description:Developer Relations Events
+description: Developer Relations Events
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -22,7 +22,7 @@ avatar: /images/reverie.png
 footer-links:
   dribbble:
   email: devrel.events@gmail.com
-  facebook:
+  facebook: devrelevents
   flickr:
   github: tooevangelist
   instagram:
